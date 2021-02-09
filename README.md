@@ -35,3 +35,15 @@ cd strapi-cms-rest-api
 
 yarn develop
 ```
+
+## To manage your project 🚀, go to the administration panel at:
+
+http://localhost:1337/admin
+
+## To access the server ⚡️, go to:
+
+http://localhost:1337
+
+## REST API
+
+![ Swagger Image](images/Screenshot.png?raw=true "Details")
